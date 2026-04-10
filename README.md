@@ -71,13 +71,10 @@ lib/
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
+## 📸 Screenshot
 
 Example:
 <img width="1918" height="1079" alt="Screenshot 2026-04-08 172236" src="https://github.com/user-attachments/assets/47c4b7ce-f55a-40aa-aebb-ca9f7a3f4a65" />
-)
 <img width="1919" height="1079" alt="Screenshot 2026-04-08 172716" src="https://github.com/user-attachments/assets/b6f4a64c-35ed-46a5-a63d-521dabe977e1" />
 
 <img width="1919" height="1079" alt="Screenshot 2026-04-08 172732" src="https://github.com/user-attachments/assets/7bc4ca41-2c5f-4269-8d8f-adf65d939a6b" />
@@ -87,10 +84,7 @@ Example:
 
 ## 🎥 Video Demo
 
-<!-- Paste your video link here -->
-
-<!-- Example: https://your-video-link.com -->
-
+https://drive.google.com/file/d/1xyXEa20ETgJ5TZeNggyJkRIYMeYZHpEJ/view?usp=sharing
 ---
 
 ## ▶️ How to Run the Project
